@@ -1,7 +1,8 @@
 # SetOfEngneeringDrawingOfLolitaFashion
 Engineering Drawing！主要放用CAD画的工程图纸
 # Introduction
-大家注明一下所使用的软件以及版本避免版本冲突
+大家注明一下所使用的软件以及版本避免版本冲突 <br>
+For avoid conflict, let's announced the software and the version we used. <br>
 ## Software Version 软件版本
 Kristall Wang          AutoCAD 2019 Students 学生版 使用文件为*.dwg格式 <br>
 
