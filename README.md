@@ -1,8 +1,12 @@
 # SetOfEngneeringDrawingOfLolitaFashion
 Engineering Drawing！主要放用CAD画的工程图纸
+# License 许可协议
+目前使用GPL3协议，不排除后续将换为CERN硬件开源协议 <br>
+We current use GPL3 license, but we not promise we don't switch to CERN open source license in future.
 # Introduction
 大家注明一下所使用的软件以及版本避免版本冲突 <br>
 For avoid conflict, let's announced the software and the version we used. <br>
+
 ## Software Version 软件版本
 Kristall Wang          AutoCAD 2019 Students 学生版 使用文件为*.dwg格式 <br>
 
